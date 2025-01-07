@@ -7,7 +7,7 @@ This is my digital garden where I share notes on various topics
 ## 🗺️ Navigation
 
 ### Ways to Explore
-- Use the [[search|search feature]] (Ctrl/Cmd + K) to find specific topics
+- Use the search (Ctrl/Cmd + K) to find specific topics
 - Browse through the graph view to see how notes are connected
 - Check out [[tags/]] to explore by categories
 - Browse the explorer in the sidebar

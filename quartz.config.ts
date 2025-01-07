@@ -13,7 +13,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "umami",
+      host: "https://analytics.tomasps.com",
+      websiteId: "b28e3951-369a-4a59-a847-ec9d881e085c",
     },
     locale: "en-US",
     baseUrl: "notes.tomasps.com",
