@@ -75,18 +75,12 @@ f(x)=4x-x^2 \\
 \lim_{x \to 1} f(x)= \lim_{x \to 1} (4x-x^2)
 \end{array}
 $$
+|   x   |    y    |     |   x   |     y     |
+|:-----:|:-------:|:---:|:-----:|:---------:|
+| 0.9   | 2.78    |     | 1.1   | 3.19      |
+| 0.99  | 2.9799  |     | 1.01  | 3.0199    |
+| 0.999 | 2.99799 |     | 1.001 | 3.001999  |
 
-|   x   |    y    |
-|:-----:|:-------:|
-| 0.9   | 2.78    |
-| 0.99  | 2.9799  |
-| 0.999 | 2.99799 |
-
-|   x   |     y     |
-|:-----:|:---------:|
-| 1.1   | 3.19      |
-| 1.01  | 3.0199    |
-| 1.001 | 3.001999  |
 
 ## Propiedades de los limites
 
@@ -177,8 +171,8 @@ Diremos que una funcion es continua en $x=a$ cuando se cumplan 3 condiciones
 
 $$
 \begin{aligned}
-&\bullet \ \exists \lim_{x \to a} f(x) \ \text{Discontinua} \\
-&\bullet \ \exists f(a) \ \text{Discontinuidad no evitable} \\
-&\bullet \ \lim_{x \to a} f(x) = f(a) \  \text{Discontinuidad de salto finito/infinito} \\
+&\bullet \ \exists \lim_{x \to a} f(x) \\
+&\bullet \ \exists f(a) \\
+&\bullet \ \lim_{x \to a} f(x) = f(a)
 \end{aligned}
 $$

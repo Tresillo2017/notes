@@ -168,3 +168,16 @@ dt=(3x^2+6)dx \\
 $$
 
 # Calculo de areas
+
+$$
+\int_{1}^{4} (3x+1)dx = \left[ \frac{3x^2}{2}+x \right]_{1}^{4} = \left[ \frac{3 \times 4^2}{2}+4 \right] - \left[ \frac{3 \times 1^2}{2}+1 \right] = 25.5 \overline{u}^2
+$$
+
+## Area delimitada entre dos curvas
+
+$$
+S_1 = \int_{b}^{a} g(x)dx \\
+S_2 = \int_{b}^{a} f(x)dx \\
+S = S_1 - S_2 \quad \Rightarrow \quad S = \int_{b}^{a} (g(x)dx - \int_{b}^{a} f(x)dx \\
+S = \int_{b}^{a} (g(x)-f(x))dx
+$$
